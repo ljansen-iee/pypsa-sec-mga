@@ -1,11 +1,11 @@
 # pypsa-sec-mga
-A Modelling to Generate Alternatives study utilizing a pypsa sector coupling model instance of Germany.
+A Modelling to Generate Alternatives study using a pypsa sector coupling model instance of Germany.
 
-This code has been used for the following paper:`Nacken, L., Krebs, F., Fischer, T., Hoffmann, C. (2019): Integrated renewable energy systems for Germany - A model-based exploration of the decision space. International Conference on the European Energy Market, IEEE.`
+This code has been used for the following paper:`(Will be printed soon) Nacken, L., Krebs, F., Fischer, T., Hoffmann, C. (2019): Integrated renewable energy systems for Germany - A model-based exploration of the decision space. International Conference on the European Energy Market, IEEE.`
 
-If you use this code or work derived from it in an academic publication, please cite the above paper.
+If you use this code or any derivative work in a scientific publication, you can cite the above publication.
 
-For more information on pypsa the reader is refered to [the documentation](https://pypsa.org/) and the following publications:
+For more information on pypsa the reader is refered to [the pypsa website](https://pypsa.org/) and the following publications:
 
 `T. Brown, J. Hörsch, and D. Schlachtberger (2018): PyPSA: Python for Power System Analysis. Journal of Open Research Software, vol. 6, no. 3, p. 12.`
 
@@ -20,7 +20,11 @@ Install requirements
 
 ## Files
 
+TODO: Describe files
 
+## Workflow
+
+TODO: Describe workflow (and/or add snakemake)
 
 ## License
 

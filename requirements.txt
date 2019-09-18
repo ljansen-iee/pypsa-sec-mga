@@ -1,0 +1,7 @@
+pypsa==0.12.0
+pandas==1.16.1
+numpy==0.22
+pyomo==5.5
+plotly==4.0.0
+cufflinks==0.15
+jupyter notebook
