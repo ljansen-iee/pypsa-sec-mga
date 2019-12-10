@@ -1,7 +1,7 @@
 # pypsa-sec-mga
 A Modelling to Generate Alternatives study using a pypsa sector coupling model instance of Germany.
 
-This code has been used for the following paper:`(Will be printed soon) Nacken, L., Krebs, F., Fischer, T., Hoffmann, C. (2019): Integrated renewable energy systems for Germany - A model-based exploration of the decision space. International Conference on the European Energy Market, IEEE.`
+The taged version (paper-nacken-2019) of this code was used for the following paper:`(Will be printed soon) Nacken, L., Krebs, F., Fischer, T., Hoffmann, C. (2019): Integrated renewable energy systems for Germany - A model-based exploration of the decision space. International Conference on the European Energy Market, IEEE.`
 
 If you use this code or any derivative work in a scientific publication, you can cite the above publication.
 
@@ -20,11 +20,11 @@ Install requirements
 
 ## Files
 
-TODO: Describe files
+If you have questions regarding the files, please contact me on github.
 
 ## Workflow
 
-TODO: Describe workflow (and/or add snakemake)
+If you have questions regarding the workflow, please contact me on github.
 
 ## License
 
