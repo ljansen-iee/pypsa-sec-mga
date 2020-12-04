@@ -20,11 +20,11 @@ Install requirements
 
 ## Files
 
-If you have questions regarding the files, please contact me on github.
+If you have questions regarding the files, please contact me.
 
 ## Workflow
 
-If you have questions regarding the workflow, please contact me on github.
+If you have questions regarding the workflow, please contact me.
 
 ## License
 
